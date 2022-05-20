@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "/Users/mmajcher/repo/flaskr/",
+    "/Users/mmajcher/repo/flaskr/.venv/lib/python3.9/site-packages"
+  ],
+}
